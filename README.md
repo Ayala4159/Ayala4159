@@ -1,6 +1,6 @@
 ### Hi everyone!
 
-My name is Ayala Elbogen and I am a Fullstack Software Engineer.
+My name is Ayala Vinner and I am a Fullstack Software Engineer.
 Graduated from the Ultracode boot camp, specializing in building end-to-end web applications,<br>
 learning new technologies rapidly, and writing clean, efficient code.
 
